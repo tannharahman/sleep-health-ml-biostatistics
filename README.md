@@ -28,7 +28,10 @@ This project investigates how sleep duration affects cardiometabolic risk factor
 |---------|---------------------|-------------------|
 | Hypertension | 0.805 | 0.803 |
 | Diabetes | 0.742 | 0.750 |
+| Obesity | 1.000 | 1.000 |
 | Metabolic Syndrome | 0.782 | 0.825 |
+
+*Note: Obesity AUC is ~1.0 because BMI (a direct determinant of obesity) is included as a feature.*
 
 ### Key Findings
 
