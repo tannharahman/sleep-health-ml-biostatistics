@@ -1,0 +1,36 @@
+Variable,Type,Overall,Long (8-9h),Recommended (7-8h),Short (6-7h),Very Long (>9h),Very Short (<6h)
+age,continuous,48.4 (17.4),49.4 (19.2),47.9 (16.8),47.1 (15.5),50.8 (20.1),48.5 (16.1)
+bmi,continuous,29.8 (7.3),29.5 (7.1),29.6 (7.0),30.5 (7.3),29.4 (7.7),30.5 (8.4)
+sleep_hours,continuous,7.6 (1.5),8.8 (0.2),7.5 (0.4),6.2 (0.2),10.3 (1.0),4.6 (0.9)
+sbp_mean,continuous,122.0 (17.4),121.3 (18.0),121.8 (17.1),121.9 (15.6),122.6 (19.2),124.1 (18.2)
+dbp_mean,continuous,73.9 (10.9),72.6 (10.6),74.1 (10.8),74.5 (10.4),73.0 (11.7),75.8 (11.8)
+hba1c,continuous,5.7 (0.9),5.6 (0.9),5.7 (0.9),5.7 (1.0),5.7 (0.9),5.9 (1.2)
+hdl,continuous,53.8 (15.8),55.5 (16.2),54.1 (15.8),51.7 (14.6),53.8 (16.3),52.9 (16.5)
+triglycerides,continuous,110.9 (91.1),117.8 (120.7),108.1 (84.0),110.4 (71.6),115.3 (87.5),107.7 (85.9)
+cmi,continuous,1.5 (1.9),1.6 (2.6),1.4 (1.7),1.5 (1.4),1.7 (2.0),1.5 (2.0)
+sex_str: Female,categorical,51.9%,61.4%,50.2%,42.8%,61.8%,46.3%
+sex_str: Male,categorical,48.1%,38.6%,49.8%,57.2%,38.2%,53.7%
+race_str: Mexican American,categorical,8.3%,8.3%,8.3%,8.9%,7.9%,8.1%
+race_str: Non-Hispanic Asian,categorical,6.0%,6.1%,6.6%,5.2%,5.4%,4.6%
+race_str: Non-Hispanic Black,categorical,11.4%,9.4%,9.1%,12.5%,16.0%,21.2%
+race_str: Non-Hispanic White,categorical,62.6%,67.0%,65.0%,59.2%,57.4%,51.9%
+race_str: Other Hispanic,categorical,7.7%,6.0%,7.3%,9.1%,9.3%,8.7%
+race_str: Other/Multi,categorical,4.0%,3.1%,3.7%,5.2%,4.0%,5.5%
+education_str: 9-11th grade,categorical,7.3%,6.3%,6.2%,7.8%,11.4%,9.7%
+education_str: College graduate+,categorical,31.6%,32.3%,37.0%,27.5%,20.3%,19.9%
+education_str: High school/GED,categorical,26.8%,26.6%,24.7%,26.4%,34.7%,30.8%
+education_str: Less than 9th grade,categorical,3.7%,3.3%,3.3%,3.9%,6.5%,3.9%
+education_str: Some college,categorical,30.5%,31.4%,28.8%,34.3%,27.1%,35.7%
+smoking_status: Current,categorical,16.7%,14.3%,14.8%,19.0%,19.3%,25.2%
+smoking_status: Former,categorical,25.7%,23.5%,26.4%,26.4%,24.5%,26.7%
+smoking_status: Never,categorical,57.6%,62.2%,58.8%,54.5%,56.1%,48.1%
+physical_activity: Active,categorical,47.1%,42.2%,49.5%,52.2%,33.5%,50.3%
+physical_activity: Inactive,categorical,52.9%,57.8%,50.5%,47.8%,66.5%,49.7%
+hypertension: 0.0,categorical,60.7%,59.0%,63.7%,61.9%,53.5%,53.6%
+hypertension: 1.0,categorical,39.3%,41.0%,36.3%,38.1%,46.5%,46.4%
+diabetes: 0.0,categorical,85.5%,87.0%,85.9%,86.4%,81.5%,83.2%
+diabetes: 1.0,categorical,14.5%,13.0%,14.1%,13.6%,18.5%,16.8%
+obesity: 0.0,categorical,58.6%,61.8%,59.1%,53.7%,59.7%,56.6%
+obesity: 1.0,categorical,41.4%,38.2%,40.9%,46.3%,40.3%,43.4%
+metabolic_syndrome: 0.0,categorical,73.0%,73.7%,73.8%,73.6%,71.4%,68.1%
+metabolic_syndrome: 1.0,categorical,27.0%,26.3%,26.2%,26.4%,28.6%,31.9%
